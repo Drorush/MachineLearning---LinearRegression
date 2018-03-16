@@ -83,7 +83,7 @@ public class MainHW1 {
 				}
 			}
 		}
-		System.out.println("Training error the features " + bestAttributes + "}: " + minError);
-		System.out.println("Test error the features " + bestAttributes + "}: " + testError);
+		System.out.println("Training error the features " + bestAttributes + ": " + minError);
+		System.out.println("Test error the features " + bestAttributes + ": " + testError);
 	}
 }
